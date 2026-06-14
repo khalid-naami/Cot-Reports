@@ -79,4 +79,14 @@ if __name__ == "__main__":
         page_icon="📊",
         layout="wide",
     )
+    st.sidebar.markdown("""
+<div style="color: #00ff85; font-size: 14px; font-weight: 500;">
+    📊 <a href="https://dashboardoptions.com/" style="color: #00ff85; text-decoration: none; font-weight:700;">Dashboard Options</a><br>
+    <span style="font-size:12px; color:#888;">A leading platform in financial market analysis</span>
+</div>
+<div style="font-size:13px; margin-top:8px;">
+    <a href="https://khalidnaami.com/" style="color: #888;">Khalid Naami</a> · <a href="https://github.com/khalid-naami" style="color: #888;">GitHub</a> · <a href="https://x.com/DashboardOption" style="color: #888;">𝕏</a> · <a href="https://www.linkedin.com/company/dashboard-options/" style="color: #888;">LinkedIn</a> · <a href="https://www.instagram.com/dashboardoptions/" style="color: #888;">Instagram</a> · <a href="https://discord.gg/NRSzCYRzpJ" style="color: #888;">Discord</a> · <a href="https://t.me/dashboardoptions" style="color: #888;">Telegram</a> · <a href="https://www.youtube.com/@DashboardOptions" style="color: #888;">YouTube</a>
+</div>
+<hr style="border-color: #00ff85; opacity: 0.3;">
+""", unsafe_allow_html=True)
     main()
