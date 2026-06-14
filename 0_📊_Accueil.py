@@ -66,9 +66,10 @@ def main():
         - ⚖️ Comparateur d'actifs
         - 💸 Meilleures metriques
 
-        ### Contact & Autres Projets
-        - [About me](https://khalid-naami.github.io/)
-        - [Times series analysis](https://seasonality-data.streamlit.app/)
+        ### Links
+        📊 [Dashboard Options](https://dashboardoptions.com/) — A leading platform in financial market analysis
+        
+        [Khalid Naami](https://khalidnaami.com/) · [GitHub](https://github.com/khalid-naami) · [𝕏](https://x.com/DashboardOption) · [LinkedIn](https://www.linkedin.com/company/dashboard-options/) · [Instagram](https://www.instagram.com/dashboardoptions/) · [Discord](https://discord.gg/NRSzCYRzpJ) · [Telegram](https://t.me/dashboardoptions) · [YouTube](https://www.youtube.com/@DashboardOptions)
     """ 
     )
 
